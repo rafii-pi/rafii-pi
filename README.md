@@ -1,4 +1,4 @@
-## "enjoy n take it easy🦫
+## <h3"enjoy n take it easy🦫/>
 
 <h1 align="center">Hi 👋, I'm Rafi</h1>
 <h3 align="center">🏫 I'm currently student at Padang State University</h3>
