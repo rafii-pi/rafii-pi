@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I don't like coffee**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">let's be part of the world:></h3>
 <p align="left">
 </p>
 
