@@ -7,9 +7,9 @@
 
 - ⚡ Fun fact **I don't like coffee**
 
-<h4 align="left">  "let's be part of the world:>"</h4>
-<p align="left">
-</p>
+```bash
+"let's be part of the world><"
+```
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
